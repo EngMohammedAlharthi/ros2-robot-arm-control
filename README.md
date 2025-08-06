@@ -37,5 +37,4 @@ rviz2
   - **RobotModel** → (may not show meshes due to VirtualBox, that's OK)
   - **Grid**
 
-river issues in VirtualBox. In a native Ubuntu setup, it should render properly.
-```
+
