@@ -37,8 +37,5 @@ rviz2
   - **RobotModel** → (may not show meshes due to VirtualBox, that's OK)
   - **Grid**
 
-# ℹ️ Notes:
-- STL meshes exist and are referenced correctly from URDF.
-- TF frames confirm the URDF is parsed and published.
-- If RViz doesn't display the robot model, it's due to graphics driver issues in VirtualBox. In a native Ubuntu setup, it should render properly.
+river issues in VirtualBox. In a native Ubuntu setup, it should render properly.
 ```
